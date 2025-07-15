@@ -137,8 +137,8 @@ public class HelloServlet extends HttpServlet {
                     <h1><span id="typed-text"></span></h1>
                     <p> </p>
                     <div class="social-buttons mt-3">
-                        <a href="https://github.com/zaherpathan" class="btn-github"><i class="fab fa-github"></i> GitHub</a>
-                        <a href="https://www.linkedin.com/in/zaher-pathan-697150242" class="btn-linkedin"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                        <a href="https://github.com/abhijit2812" class="btn-github"><i class="fab fa-github"></i> GitHub</a>
+                        <a href="https://www.linkedin.com/in/abhijit-hadawale-b45a962b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="btn-linkedin"><i class="fab fa-linkedin"></i> LinkedIn</a>
                     </div>
                 </div>
 
